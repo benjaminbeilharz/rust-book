@@ -24,5 +24,9 @@ pub fn solve() {
     let element = a[index];
 
     println!("The value of the element at index {} is {}", index, element);
+
+    for i in a {
+        println!("the value is: {}", i);
+    }
     
 }
