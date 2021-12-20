@@ -1,5 +1,5 @@
-mod cap4;
+mod cap6;
 
 fn main() {
-    cap4::solve();
+    cap5::solve();
 }
